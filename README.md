@@ -1,1 +1,1 @@
-# paradigmsGbTwo
+# paradigms-gb-two
